@@ -1,0 +1,66 @@
+infrequent = ["EDA_S_Raumbewirtschaftung", 
+"EDA_ANW_ZACWEB", 
+"EDA_S_BA_Datenablage", 
+"EDA_S_BA_RemoteAccess", 
+"_Pending", "EDA_S_BA_Internetzugriff",
+"EDA_ANW_DMS Fabasoft eGov Suite",
+"EDA_S_APS"
+"EDA_S_BA_ServerAusland",
+"EDA_ANW_ARS Remedy"
+"EDA_S_Büroautomation",
+"EDA_ANW_MOVE!",
+"EDA_ANW_Internet EDA",
+"EDA_ANW_at Honorarvertretung",
+"EDA_S_Netzwerk Inland",
+"EDA_ANW_Plato-HH",
+"EDA_ANW_Zentrale Raumreservation EDA",
+"EDA_ANW_IAM Tool EDA",
+"EDA_ANW_Office Manager",
+"EDA_ANW_ITDoc Sharepoint",
+"EDA_S_Backup & Restore",
+"EDA_ANW_FDFA Security App",
+"EDA_ANW_NOS:4",
+"EDA_ANW_ORBIS",
+"EDA_ANW_EDAContacts",
+"EDA_ANW_EDA PWC Tool",
+"EDA_ANW_EDAssist+",
+"EDA_ANW_CodX PostOffice",
+"EDA_ANW_eVERA",
+"EDA_ANW_Reisehinweise",
+"EDA_ANW_ARIS (EDA Scout)",
+"EDA_ANW_Zeiterfassung SAP",
+"EDA_S_Arbeitsplatzdrucker"]
+
+EDA_S_Raumbewirtschaftung                44
+EDA_ANW_ZACWEB                           43
+EDA_S_BA_Datenablage                     34
+EDA_S_BA_RemoteAccess                    29
+_Pending                                 22
+EDA_S_BA_Internetzugriff                 22
+EDA_ANW_DMS Fabasoft eGov Suite          15
+EDA_S_APS                                15
+EDA_S_BA_ServerAusland                   14
+EDA_ANW_ARS Remedy                       13
+EDA_S_Büroautomation                     12
+EDA_ANW_MOVE!                            11
+EDA_ANW_Internet EDA                     10
+EDA_ANW_at Honorarvertretung              9
+EDA_S_Netzwerk Inland                     7
+EDA_ANW_Plato-HH                          7
+EDA_ANW_Zentrale Raumreservation EDA      4
+EDA_ANW_IAM Tool EDA                      3
+EDA_ANW_Office Manager                    3
+EDA_ANW_ITDoc Sharepoint                  3
+EDA_S_Backup & Restore                    3
+EDA_ANW_FDFA Security App                 3
+EDA_ANW_NOS:4                             2
+EDA_ANW_ORBIS                             2
+EDA_ANW_EDAContacts                       2
+EDA_ANW_EDA PWC Tool                      2
+EDA_ANW_EDAssist+                         2
+EDA_ANW_CodX PostOffice                   1
+EDA_ANW_eVERA                             1
+EDA_ANW_Reisehinweise                     1
+EDA_ANW_ARIS (EDA Scout)                  1
+EDA_ANW_Zeiterfassung SAP                 1
+EDA_S_Arbeitsplatzdrucker                 1
